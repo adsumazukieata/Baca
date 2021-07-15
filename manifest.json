@@ -1,0 +1,38 @@
+{
+  "name": "bacaritriktips",
+  "short_name": "bacaritriktips",
+  "start_url": "https://bacaritriktips.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Berbagi Info terkhusus pada Tips and Trik atau Cara Mengatasi Permasalahan, Tutorial dan berbagai macam artikel inspiratif lainya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-lZ_b0JZdTJ4/YO_ESTuNzzI/AAAAAAAAAAg/MxM1V9tMc-gqrPwiKVe1RCeq_X2f6-q6wCLcBGAsYHQ/s48/iconfaviconbacaritriktips-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-pkBTLbv5exo/YO_ES5xU48I/AAAAAAAAAAs/GHMrqsSRHXEHlUM4HKiIPfYwy7K_KC6CQCLcBGAsYHQ/s72/iconfaviconbacaritriktips-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gbk07Oq3tTs/YO_ESxiX_aI/AAAAAAAAAAo/MxSs-QSEeNk1-Asi7pwK6H0-IgSlMsrBACLcBGAsYHQ/s96/iconfaviconbacaritriktips-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-a6DZOOE2EAQ/YO_ER1dQCQI/AAAAAAAAAAc/qy6yBG4fYhMQfJ4xL6t7PxKFKj08PHUjQCLcBGAsYHQ/s144/iconfaviconbacaritriktips-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HeSm_fiI5iE/YO_ERmyUX7I/AAAAAAAAAAU/Rub2RHFgPtIs6XtdINpKXxydouJW79x-gCLcBGAsYHQ/s168/iconfaviconbacaritriktips-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s1yiYAY0t6w/YO_ERr-WXOI/AAAAAAAAAAY/g11oDFOolmosZ1SRXVOs4_QSsatu4bfQgCLcBGAsYHQ/s192/iconfaviconbacaritriktips-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PeF6D49_EUo/YO_ESkpWOiI/AAAAAAAAAAk/jlKSnf8H6hs-NKX149CBiw8RNrahJSSiQCLcBGAsYHQ/s512/iconfaviconbacaritriktips-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
